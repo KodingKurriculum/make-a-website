@@ -1,0 +1,10 @@
+/* Section styles */
+section {
+    padding-top: 2rem;
+}
+img {
+    max-width: 100%;
+}
+.col-md-4 {
+    padding-bottom: 1rem;
+}
